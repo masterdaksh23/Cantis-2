@@ -1,0 +1,22 @@
+{
+  "name": "cantis-ai",
+  "version": "1.0.0",
+  "description": "Cantis — Psychic AI Intelligence Chatbot with 3D Visual Effects",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "openrouter",
+    "threejs",
+    "psychic",
+    "futuristic",
+    "glassmorphism",
+    "streaming"
+  ],
+  "author": "Cantis AI",
+  "license": "MIT"
+}
